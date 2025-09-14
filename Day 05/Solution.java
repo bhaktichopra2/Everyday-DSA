@@ -34,7 +34,7 @@ b - a equals to the minimum absolute difference of any two elements in arr
 //Through Sliding Window
 import java.util.*;
 
-public class Solution {
+public class Solution{
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
         Arrays.sort(arr);
         List<List<Integer>> res = new ArrayList<>();
