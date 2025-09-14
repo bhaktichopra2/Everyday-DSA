@@ -17,7 +17,7 @@ Output: false
 import java.util.HashSet;
 import java.util.Set;
 
-public class Solution {
+public class Solution{
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         Set<Integer> seen = new HashSet<>();
         for (int i = 0; i < nums.length; i++) {
