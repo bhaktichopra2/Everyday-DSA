@@ -8,7 +8,7 @@ arr[0] < arr[1] < ... < arr[i - 1] < arr[i]
 arr[i] > arr[i + 1] > ... > arr[arr.length - 1]
 Given an integer array arr, return the length of the longest subarray, which is a mountain. Return 0 if there is no mountain subarray.
 */
-public class Solution {
+public class Solution{
     public int longestMountain(int[] arr) {
         int ret = 0;
         int n = arr.length;
