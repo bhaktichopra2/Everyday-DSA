@@ -7,7 +7,7 @@ The tests are generated such that there is exactly one solution. You may not use
 
 Your solution must use only constant extra space. */
 
-public class Solution {
+public class Solution{
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length;
         int l = 0;
