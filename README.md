@@ -8,5 +8,6 @@ The goal is to stay consistent, strengthen problem-solving skills, and prepare f
 
 What’s inside:
 1. 100+ DSA problems (and growing)
-2. Solutions in Python and Java
-3. Topics include arrays, strings, linked lists, stacks, queues, recursion, sorting, hashing, and more
+2. 500+ submissions on Leetcode
+3. Solutions in Python and Java
+4. Topics include arrays, strings, linked lists, stacks, queues, recursion, sorting, hashing, and more
